@@ -10,3 +10,5 @@ url = collect_from_webapi.api.pd_gen_url(YM='{0:04d}{1:02d}'.format(2017, 1),
     pageNo=1)
 
 print(url)
+
+

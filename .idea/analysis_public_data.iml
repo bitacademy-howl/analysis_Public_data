@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="analysis_fb" />
     <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="untitled" />
   </component>
 </module>
